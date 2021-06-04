@@ -1,75 +1,46 @@
 body {
 	background-color: #d6e0f5;
-	 background-image: url(gallary1.gif);
+	 background-image: url(10.jpg);
 	 background-attachment: fixed;
 	 background-size: cover; 
 	
 }
-
 h1 {
 	font-family: Verdana;
 	color:black;
 	text-align: center;
 	font-size: 40px;
 }
-
 div {
 	 width: 600px;
 	 margin-right: auto;
 	 margin-left: auto;
-	 background-color: rgba(26, 242, 206, 0.7);
 	 padding: 20px;
+	 background-color: rgba(64, 224, 208, 0.6);
 	 border: 5px solid black;
-	 margin-bottom: 100px;
+	 margin-bottom: 50px;
+	 box-shadow: 8px 8px 10px #000000;
 	 
 }
-
-p1{
+p{
 	font-family: 'News Cycle', sans-serif;
 	font-size: 13pt;
 }
-
 img{
 	width: 300px;
-	
+	float: right; 
 	margin-left: 10px;
 	border: 7px #000000 solid;
 	border-radios: 30px;
 }
 
 ol{ 
-	font-size: 50px;
+	font-size: 30px;
 }
 
-div.a{
-	margin-left: 764;
-	margin-right: 0;
-}
-
-div.b{
-	margin-right: 764;
-	margin-left: 0;
-}
-
-.image1{
+div.head{
+	Margin-right: auto;
 	margin-left: auto;
-	margin-right: auto;
-	width: 400px;
-}
-
-div.c{
-	margin-right: 764;
-	margin-left: 0;
-}
-
-div.d{
-	margin-right: 0;
-	margin-left: 764;
-}
-
-div.e{
-	Margin-right: 600;
-	margin-left: 0;
 }
 
 a[href]{
